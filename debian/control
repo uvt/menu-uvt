@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Raviyanto Ahmad <raviyanto@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
-Homepage: https://github.com/UVT
-Vcs-Git: git://github.com/UVT/kalkuluvt.git
-Vcs-Browser: https://github.com/UVT/kalkuluvt.git
+Homepage: https://github.com/UVT/menu-uvt
+Vcs-Git: git://github.com/UVT/menu-uvt.git  
+Vcs-Browser: https://github.com/UVT/menu-uvt.git
 
 Package: menu-uvt
 Architecture: all
