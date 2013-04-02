@@ -9,7 +9,7 @@ Vcs-Git: git://github.com/UVT/menu-uvt.git
 Vcs-Browser: https://github.com/UVT/menu-uvt.git
 
 Package: menu-uvt
-Architecture: all
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: UVT menu categories for applications under GNOME and KDE
  This package installs desktop menus for grouping UVT applications on
