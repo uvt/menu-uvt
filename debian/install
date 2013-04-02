@@ -1,0 +1,6 @@
+*.directory /usr/share/desktop-directories/
+ikon/*.png /usr/share/icons/uvt/ikon/
+uvt.menu /etc/xdg/menus/applications-merged/
+uvt.menu /etc/xdg/menus/applications-gnome-merged/
+
+
