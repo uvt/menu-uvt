@@ -1,5 +1,5 @@
 menu-uvt
 ========
 
-Menu aplikasi UVT ini mengumpulkan aplikasi-aplikasi hasil karya 
-mahasiswa Universitas Virtual Terbuka menjadi satu menu.
+Menu aplikasi UVT ini menyajikan aplikasi-aplikasi hasil karya 
+mahasiswa Universitas Virtual Terbuka.
