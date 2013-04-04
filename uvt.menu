@@ -27,7 +27,7 @@
         <Category>Aplikasi-UVT</Category>
       </And>
     </Include>
-    <Menu> <!-- Peralatan -->
+    <Menu> <!-- Peralatan UVT -->
       <Name>Peralatan-UVT</Name>
       <Directory>Peralatan-UVT.directory</Directory>
       <Include>
